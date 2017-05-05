@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2015-10-28
-img: exoplayer.png
+img: MoviePilotWSWnachher.png
 alt: image-alt
 project-date: October 2015
 client: Start Bootstrap
