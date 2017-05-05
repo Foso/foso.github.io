@@ -7,8 +7,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Android
-description: <h1> <u>ExoPlayer-with-MediaControls</u></h1>
-
+description: <u>ExoPlayer-with-MediaControls</u>
 This is a small project i created to learn how to use the Exoplayer from Google.
 It plays an video from an URL and you can control the playback.
 
