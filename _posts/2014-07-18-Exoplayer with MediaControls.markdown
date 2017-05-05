@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1_Exoplayer_with_MediaControls
+modal-id: 1
 date: 2014-07-18
 img: exoplayer.png
 alt: image-alt
