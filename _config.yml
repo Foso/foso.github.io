@@ -1,7 +1,7 @@
 # Site settings
 title: Jens Klingenberg
 email: mail@jensklingenberg.de
-url: https://fos.github.io
+url: https://foso.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 skills: "Android Engineer - Technology Enthusiast"
 meta_author: Klingenberg Jens
@@ -42,11 +42,13 @@ social:
     url: http://twitter.com/_foso_
   - title: github
     url: http://github.com/foso
+- title: website
+    url: http://jensklingenberg.de
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line: 
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
