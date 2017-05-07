@@ -7,6 +7,6 @@ alt: image-alt
 project-date: May 2016
 client: Start Bootstrap
 category: Android Development
-description: <a href="http://jensklingenberg.de">My Website</a>
+description: Check out my <a href="http://jensklingenberg.de">My Website</a>
 
 ---
