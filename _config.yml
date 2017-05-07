@@ -42,8 +42,8 @@ social:
     url: http://twitter.com/_foso_
   - title: github
     url: http://github.com/foso
-  - title: linkedin
-    url: http://github.com/foso
+  - title: envelope
+    url: mailto:mail@jensklingenberg.de
 
 # Postal address (add as many lines as necessary)
 address:
