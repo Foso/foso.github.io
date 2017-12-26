@@ -39,7 +39,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/_foso_
+    url: http://twitter.com/jklingenberg_
   - title: github
     url: http://github.com/foso
   - title: envelope
@@ -47,7 +47,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Bielefeld
+  - line: Hamburg
   - line: 
 
 # Credits content
